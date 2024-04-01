@@ -1,4 +1,4 @@
-accelerate @ git+https://github.com/huggingface/accelerate.git@85a75d4c3d0deffde2fc8b917d9b1ae1cb580eb2
+accelerate==0.28.0
 aiohttp==3.9.3
 aiosignal==1.3.1
 async-timeout==4.0.3
@@ -46,7 +46,7 @@ sympy==1.12
 tokenizers==0.15.2
 torch==2.2.1
 tqdm==4.66.2
-transformers @ git+https://github.com/huggingface/transformers.git@76a33a10923ccc1074917f6b6a1e719e626b7dc9
+transformers==4.39.1
 trl==0.8.1
 typing_extensions==4.10.0
 tyro==0.7.3
